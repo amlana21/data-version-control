@@ -129,3 +129,6 @@ dmypy.json
 .pyre/
 
 dvc
+newdvc
+data/raw/train
+data/raw/val
